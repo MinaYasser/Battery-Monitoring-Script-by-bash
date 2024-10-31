@@ -1,0 +1,2 @@
+# Battery-Monitoring-Script-by-bash
+This script monitors the battery level on a Linux system. It reads the battery status, extracting the percentage value and checking if it falls below 15%. If the battery is low, it sends a notification reminding the user to charge their device. The script continuously checks for power connection until the battery is charged, providing a final notification of gratitude when charging is detected.
